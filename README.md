@@ -1,4 +1,4 @@
-# 🏗 Devconnect Zupass: SE2 Starter Kit
+# 🏗 ETHBerlin Zupass: SE2 Starter Kit
 
 TLDR: 🎥 [watch the intro video here](https://youtu.be/7SGaMHOYc04)
 
@@ -22,8 +22,8 @@ In this Starter Kit you'll find an example of how to generate a proof and verify
 
 1. Clone the repo
 ```bash
-git clone https://github.com/BuidlGuidl/devconnect-zupass-se2
-cd devconnect-zupass-se2
+git clone https://github.com/BuidlGuidl/ethberlin-zupass-starterkit
+cd ethberlin-zupass-starterkit
 ```
 
 2. Install dependencies
